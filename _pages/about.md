@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my academic website for mathematics
+This is my academic website for mathematics.
